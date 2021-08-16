@@ -45,7 +45,7 @@
                 "uuid": "88b74587-1b6f-4a1e-8aa2-1153f6deea5c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-AC-A-1944",
                 "uuid": "41ee413f-f9d6-4d0e-a924-0ddd58aeace7"
             },
@@ -149,7 +149,7 @@
                 "uuid": "88b74587-1b6f-4a1e-8aa2-1153f6deea5c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-AC-A-1944",
                 "uuid": "41ee413f-f9d6-4d0e-a924-0ddd58aeace7"
             },
@@ -253,7 +253,7 @@
                 "uuid": "88b74587-1b6f-4a1e-8aa2-1153f6deea5c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-AC-A-1944",
                 "uuid": "41ee413f-f9d6-4d0e-a924-0ddd58aeace7"
             },
@@ -357,7 +357,7 @@
                 "uuid": "88b74587-1b6f-4a1e-8aa2-1153f6deea5c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-AC-A-1944",
                 "uuid": "41ee413f-f9d6-4d0e-a924-0ddd58aeace7"
             },
@@ -461,7 +461,7 @@
                 "uuid": "88b74587-1b6f-4a1e-8aa2-1153f6deea5c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-AC-A-1944",
                 "uuid": "41ee413f-f9d6-4d0e-a924-0ddd58aeace7"
             },
